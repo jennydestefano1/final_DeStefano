@@ -1,0 +1,23 @@
+h1, h3 {
+	font-family: 'Futura', sans-serif
+	font-weight: bold;
+	font-size: 40px;
+
+}
+p{
+	font-family: 'Georgia', serif;
+	font-size: 15px;
+}
+.fixed-bottom {
+	text-align: center;
+	padding:  5px;
+	margin-left: 10px;
+	margin-top: 30px;
+}
+.btn-group {
+	font-family: 'Georgia', serif;
+	font-size: 12px;
+	font-weight: bold;
+	border: solid black 2px;
+	margin: 10px;
+}
