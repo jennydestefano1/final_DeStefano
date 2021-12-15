@@ -1,18 +1,35 @@
 h1, h3 {
-	font-family: 'Futura', sans-serif
+	font-family: 'Helvetica', sans-serif
 	font-weight: bold;
 	font-size: 40px;
+	text-align: center;
 
+}
+h4{
+	font-family: 'Helvetica', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+h5{
+	font-family: 'Helvetica', sans-serif: ;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
 }
 p{
 	font-family: 'Georgia', serif;
-	font-size: 15px;
+	font-size: 17px;
 }
 .fixed-bottom {
 	text-align: center;
-	padding:  5px;
+	padding: 20px;
 	margin-left: 10px;
 	margin-top: 30px;
+}
+.footer{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
 }
 .btn-group {
 	font-family: 'Georgia', serif;
@@ -20,4 +37,10 @@ p{
 	font-weight: bold;
 	border: solid black 2px;
 	margin: 10px;
+}
+.accordion-button{
+	font-size: 25px;
+	font-family: 'Helvetica', sans-serif;
+	font-weight: bold;
+	text-align: center;
 }
